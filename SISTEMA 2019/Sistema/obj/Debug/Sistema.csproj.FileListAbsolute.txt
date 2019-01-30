@@ -1,0 +1,11 @@
+C:\Users\Edição1\Desktop\SISTEMA 2019\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\Edição1\Desktop\SISTEMA 2019\Sistema\bin\Debug\Sistema.exe
+C:\Users\Edição1\Desktop\SISTEMA 2019\Sistema\bin\Debug\Sistema.pdb
+C:\Users\Edição1\Desktop\SISTEMA 2019\Sistema\obj\Debug\Sistema.csprojAssemblyReference.cache
+C:\Users\Edição1\Desktop\SISTEMA 2019\Sistema\obj\Debug\Sistema.Form1.resources
+C:\Users\Edição1\Desktop\SISTEMA 2019\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\Edição1\Desktop\SISTEMA 2019\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\Users\Edição1\Desktop\SISTEMA 2019\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\Edição1\Desktop\SISTEMA 2019\Sistema\obj\Debug\Sistema.exe
+C:\Users\Edição1\Desktop\SISTEMA 2019\Sistema\obj\Debug\Sistema.pdb
+C:\Users\Edição1\Desktop\SISTEMA 2019\Sistema\obj\Debug\Sistema.frm_cad_escolas.resources

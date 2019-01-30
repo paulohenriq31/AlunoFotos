@@ -1,0 +1,13 @@
+-Ter cadastro para acessar programa
+
+-Associação de dados do aluno com a foto
+
+-Opção de marca falta para o aluno	
+
+-Opção de trnasferir o aluno de sala 
+
+-Ferar Relação dos faltosos
+
+-Gerar carometro
+
+-Trabalhar junto com programa da nikon
